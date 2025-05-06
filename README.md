@@ -48,7 +48,7 @@ Built with a mission to save lives by reducing response times, ResQ integrates *
 ## 🎥 Project Demo
 
 Watch our full project demo and pitch here:  
-[![Watch the video](https://img.youtube.com/vi/XzWfe2Ka4xY/0.jpg)](https://youtu.be/XzWfe2Ka4xY)
+[![Watch the video](https://img.youtube.com/vi/XzWfe2Ka4xY/0.jpg)](https://youtu.be/KaBlZCsP3Lc)
 
 ---
 
